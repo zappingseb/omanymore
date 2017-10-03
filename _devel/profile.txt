@@ -1,0 +1,2 @@
+sample.interval=20000
+"apply" "self$get_closest_route_point_index" "kml_file$get_route_between_two_points" 
