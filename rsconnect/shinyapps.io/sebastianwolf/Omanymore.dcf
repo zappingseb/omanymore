@@ -1,0 +1,13 @@
+name: Omanymore
+title: omanymore
+username:
+account: sebastianwolf
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 223036
+bundleId: 1021927
+url: https://sebastianwolf.shinyapps.io/OmanyMore/
+when: 1507747403.6075
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .httr-oauth|.Rbuildignore|.RData|DESCRIPTION|NAMESPACE|README.md|_devel/profile.txt|_devel/profile_route_search.R|_devel/run_app_devmode.R|inst/images/three_lines.png|man/kml_to_coords.Rd|man/KMLDocument.Rd
